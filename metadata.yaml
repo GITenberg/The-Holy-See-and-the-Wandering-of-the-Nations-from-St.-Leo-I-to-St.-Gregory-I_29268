@@ -1,0 +1,32 @@
+_repo: The-Holy-See-and-the-Wandering-of-the-Nations-from-St.-Leo-I-to-St.-Gregory-I_29268
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allies, T. W. (Thomas William)
+    aliases:
+    - Allies, Thomas William
+    - Allies, Thomas W.
+    birthdate: 1813
+    deathdate: 1903
+    gutenberg_agent_id: '33803'
+    url: http://www.gutenberg.org/2009/agents/33803
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_William_Allies
+description: ''
+gutenberg_issued: '2009-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Formation of Christendom, Volume VI
+subjects:
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'BR'
+title: The Holy See and the Wandering of the Nations, from St. Leo I to St. Gregory
+  I
+url: http://www.gutenberg.org/ebooks/29268
